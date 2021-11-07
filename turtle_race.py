@@ -14,7 +14,7 @@ screen = Screen()
 screen.setup(width = 500 , height = 400)
 screen.title("Turtle Betting!") 
 
-
+screen.bgcolor('black')
 
 colors = ['Red', 'Orange' , 'Yellow' , 'Green', 'Blue', 'Indigo' ,  'Violet' ]
 turtles = list() 
